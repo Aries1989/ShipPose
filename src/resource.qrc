@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bb3812.ttf</file>
+        <file>icon_battery.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
